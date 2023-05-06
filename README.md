@@ -1,0 +1,1 @@
+# Rice-Disease-Detection-With-ResNet-ans-Self_Attention
