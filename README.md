@@ -8,3 +8,12 @@ My implementation adds two self-attention layers (The second paper) outside a pr
 
 ![Untitled Diagram (1)](https://github.com/mx-297/Rice-Disease-Detection-With-ResNet-and-Self_Attention/assets/106694589/ddbe78ab-151d-408f-8b3b-f9c92ba96d30)
 
+## Dataset
+
+The training dataset was taking from this [Zindi competition for rice disease classification](https://zindi.africa/competitions/microsoft-rice-disease-classification-challenge/discussions).
+
+The test dataset was taken from the sane website, but without labels. After training the model and predicting the test dataset outputs, the prediction were submitted to the competition to get a score. 
+
+## Research paper
+
+In the main branch, I have submitted a research paper that was done for the proposed architecture. All of the methodology and results of the proposed solution can be found there. 
